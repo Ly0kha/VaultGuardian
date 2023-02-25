@@ -22,7 +22,7 @@ To use VaultGuardian, follow these simple steps:
 
 1. Clone the repository with `git clone https://github.com/Ly0kha/VaultGuardian.git`.
 2. Install the required dependencies with `pip install -r requirements.txt`.
-3. Run the script with `python vaultguardian.py`.
+3. Run the script with `python Vaultguardian.py`.
 
 ## 🚀 Features
 
