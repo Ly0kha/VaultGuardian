@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🗝️ VaultGuardian 🛡️
+  ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Ly0kha/VaultGuardian/blob/main/gif.gif))
 
 Python-based password manager that enables users to securely store and manage their passwords in local enviroment .
 
