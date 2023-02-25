@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🗝️ VaultGuardian 🛡️
-![Alt Text](https://gfycat.com/boringfragrantcheetah)
+![Alt Text]([https://gfycat.com/boringfragrantcheetah](https://thumbs.gfycat.com/BoringFragrantCheetah-mobile.mp4))
 
 
 Python-based password manager that enables users to securely store and manage their passwords in local enviroment .
