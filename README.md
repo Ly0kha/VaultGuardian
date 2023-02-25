@@ -2,8 +2,7 @@
 
 # 🗝️ VaultGuardian 🛡️
 ![Alt Text](https://github.com/Ly0kha/VaultGuardian/blob/main/vg1.png)
-
-
+![Alt Text](https://github.com/Ly0kha/VaultGuardian/blob/main/vg2.png)
 Python-based password manager that enables users to securely store and manage their passwords in local enviroment .
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
